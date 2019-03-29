@@ -1,0 +1,12 @@
+@inproceedings{MaGHLHH18,
+  author    = {Shuai Ma and
+               Chen Gong and
+               Renjun Hu and
+               Dongsheng Luo and
+               Chunming Hu and
+               Jinpeng Huai},
+  title     = {Query Independent Scholarly Article Ranking},
+  booktitle = {34th {IEEE} International Conference on Data Engineering, {ICDE} 2018,
+               Paris, France, April 16-19, 2018},
+  year      = {2018}
+}

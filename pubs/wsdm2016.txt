@@ -1,0 +1,15 @@
+@inproceedings{DuanAMHH16,
+  author    = {Liang Duan and
+               Charu Aggarwal and
+               Shuai Ma and
+               Renjun Hu and
+               Jinpeng Huai},
+  title     = {Scaling up Link Prediction with Ensembles},
+  booktitle = {Proceedings of the Ninth {ACM} International Conference on Web Search
+               and Data Mining, San Francisco, CA, USA, February 22-25, 2016},
+  pages     = {367--376},
+  year      = {2016},
+  url       = {http://doi.acm.org/10.1145/2835776.2835815},
+  doi       = {10.1145/2835776.2835815},
+}
+
